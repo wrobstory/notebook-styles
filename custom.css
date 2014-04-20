@@ -91,6 +91,8 @@ div.output_stderr pre {color: #dfe1e8;}
 
 .cm-s-ipython .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}
 
+/*Solarize theme*/
+
 /*.cm-s-ipython {
   background-color: #fdf6e3;
   color: #657b83;
